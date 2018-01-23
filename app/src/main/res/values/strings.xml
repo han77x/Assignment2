@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="edit_message">Enter Favorite Color</string>
+    <string name="button_send">Submit</string>
+</resources>
